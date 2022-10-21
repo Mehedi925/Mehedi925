@@ -1,12 +1,8 @@
-[![MasterHead](https://media.istockphoto.com/vectors/flat-design-with-people-sqa-software-quality-assurance-acronym-vector-id1292486645)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Md.Mehedi Hasan</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Software Tester and Automation Engineer.</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif")
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi925&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi925" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi925" alt="mehedi925" /></a> </p>
 
 - 🔭 I’m currently working on **Manual and Automation Testing**
 
