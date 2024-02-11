@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi925&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi925" /> </p>
 
-- 🔭 I’m currently working on **Manual and Automation Testing**
+- 🔭 I’m currently working on **Exploratory Data Analysis (EDA), Dashboard Design, SQL, Python**
 
-- 🌱 I’m currently learning **Java,Appium,Selenium,Katalon Studio, TestProject**
+- 🌱 I’m currently learning **Predictive Analysis, ETL, Data Pipeline, Data Warehousing, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mehedi925?tab=repositories](https://github.com/Mehedi925?tab=repositories)
 
-- 💬 Ask me about **manual testing, API testing, automation frameworks**
+- 💬 Ask me about **Data Gathering, Data Preprocessing, Data Modeling, Data Aggregation, Data Visualization **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
