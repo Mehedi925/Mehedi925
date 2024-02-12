@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<p align="center">mehedinebir925@gmail.com</p><p align="center">+8801890987102</p>
-<p align="center">Dhaka,Bangladesh</p>
-<h3 align="center">A passionate Business Data Analysis.</h3>
+<h3 align="center">A passionate Business Data Analyst from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi925&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi925" /> </p>
@@ -12,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/Mehedi925?tab=repositories">GitHub Repositories Link</a> and <a href="https://www.novypro.com/profile_projects/mehedihasan">Project Portfolio Link</a>
 
-- 💬 Ask me about **Data Gathering, Data Preprocessing, Data Modeling, Data Aggregation, Data Visualization **
+- 💬 Ask me about **Data Gathering, Data Preprocessing, Data Modeling, Data Aggregation, Data Visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
