@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<p align="center">mehedinebir925@gmail.com</p><p align="center">+8801890987102</p>
+<p align="center">Dhaka,Bangladesh</p>
 <h3 align="center">A passionate Business Data Analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
