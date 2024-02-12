@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Predictive Analysis, ETL, Data Pipeline, Data Warehousing, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mehedi925?tab=repositories](https://github.com/Mehedi925?tab=repositories)
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/Mehedi925?tab=repositories">GitHub Repositories Link</a> and <a href="https://www.novypro.com/profile_projects/mehedihasan">Project Portfolio Link</a>
 
 - 💬 Ask me about **Data Gathering, Data Preprocessing, Data Modeling, Data Aggregation, Data Visualization **
 
